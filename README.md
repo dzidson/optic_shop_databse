@@ -1,2 +1,4 @@
 # optic_shop_databse
-Optic shop database project
+Projekt: Baza danych dla sieci sklepów optycznych.
+
+
